@@ -1,0 +1,20 @@
+/* * {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+} */
+*{
+  font-family: 'inherit , ';
+}
+.cards {
+  margin: 0px 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  /* justify-content: space-evenly; */
+}
+.filter{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
